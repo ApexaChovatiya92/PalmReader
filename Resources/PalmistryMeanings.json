@@ -1,0 +1,120 @@
+{
+  "version": "1.0",
+  "archetypes": [
+    {
+      "element": "Earth Hand",
+      "name": "The Grounded Builder",
+      "description": "Square palm with clear, deep lines. Enduring, reliable, highly practical, and closely connected to the physical world."
+    },
+    {
+      "element": "Air Hand",
+      "name": "The Strategic Visionary",
+      "description": "Square palm with long fingers and intricate branching lines. Analytical, curious, articulate, and driven by intellectual discovery."
+    },
+    {
+      "element": "Fire Hand",
+      "name": "The Passionate Catalyst",
+      "description": "Oblong palm with shorter fingers and vibrant, energetic line patterns. Dynamic, charismatic, spontaneous, and an innate leader."
+    },
+    {
+      "element": "Water Hand",
+      "name": "The Intuitive Empath",
+      "description": "Long palm with long fingers and delicate, flowing lines. Deeply perceptive, imaginative, empathetic, and attuned to spiritual currents."
+    }
+  ],
+  "meanings": {
+    "life_long_curved": {
+      "title": "Vibrant Resilience & Vitality",
+      "summary": "A gracefully sweeping arc encircling the Venus mount indicates rich stamina, an open heart to life experience, and strong recuperative energy.",
+      "detailed": "Your life line exhibits a wide, generous curve. In traditional palmistry, this represents a life lived with gusto, enthusiasm, and an expansive personal space. You thrive in vibrant environments and possess natural physical resilience.",
+      "traits": ["High Stamina", "Warm Demeanor", "Adaptability to Life Shifts"],
+      "guidance": "Channel your robust life-force into creative pursuits and protect your boundaries against energy drain."
+    },
+    "life_straight_short": {
+      "title": "Focused & Deliberate Energy",
+      "summary": "A closer, direct trajectory reflects conscious energy conservation, self-reliance, and cautious deliberation.",
+      "detailed": "This formation indicates selective vitality. You prefer to conserve your energy for what truly matters rather than spreading yourself thin. Note that in genuine palmistry, length does not denote lifespan, but the tempo and distribution of energy.",
+      "traits": ["Cautious", "Self-Contained", "Energy Preserver"],
+      "guidance": "Incorporate deliberate rest and avoid overextending in high-stimulation social settings."
+    },
+    "life_deep_unbroken": {
+      "title": "Steadfast Constitution",
+      "summary": "A well-etched, clean trench shows unwavering inner fortitude and emotional grounding.",
+      "detailed": "A deeply marked life line symbolizes an anchor of calm in stormy situations. You recover swiftly from setbacks and provide stability to those around you.",
+      "traits": ["Emotional Grounding", "Quick Recovery", "Reliability"],
+      "guidance": "Use your steadfast strength to mentor and anchor others while maintaining your personal vision."
+    },
+    "life_forked_end": {
+      "title": "Explorer's Horizon",
+      "summary": "A fork near the wrist is traditionally called the Traveler's Fork, suggesting wanderlust or relocation.",
+      "detailed": "A terminal branch on the life line points toward a dual nature: a desire for rooted comfort balanced with an undeniable yearning for exploration, new cultures, or spiritual journeys.",
+      "traits": ["Curious Adventurer", "Cross-Cultural Affinity", "Versatility"],
+      "guidance": "Embrace travel and periodic renewal of your home environment."
+    },
+    "heart_curved_jupiter": {
+      "title": "Idealistic & Compassionate Heart",
+      "summary": "An upward sweeping heart line terminating under the Jupiter mount reveals high relational standards and profound loyalty.",
+      "detailed": "You bring a noble, generous warmth to all relationships. You seek meaningful soulful partnerships and hold elevated ideals about devotion, integrity, and mutual respect.",
+      "traits": ["Deep Devotion", "Generous Spirit", "High Moral Integrity"],
+      "guidance": "Ensure your high ideals allow room for human vulnerability and imperfect beauty."
+    },
+    "heart_straight_saturn": {
+      "title": "Pragmatic & Discerning Love",
+      "summary": "A more horizontal heart line ending near Saturn reflects emotional self-control, composure, and sensible boundaries.",
+      "detailed": "You evaluate emotions with clarity and practicality. You prefer steady, reliable commitments over dramatic gestures, valuing dependability and shared tangible goals.",
+      "traits": ["Discerning", "Loyal Partner", "Composed Under Stress"],
+      "guidance": "Allow yourself to express soft affection openly to help loved ones feel cherished."
+    },
+    "heart_deep_passionate": {
+      "title": "Deep Emotional Immersion",
+      "summary": "A strongly defined heart furrow shows intense emotional capacity and authentic empathy.",
+      "detailed": "Your emotional world is rich and textured. You feel deeply and connect intimately with art, nature, and heartfelt conversation.",
+      "traits": ["Empathetic Resonance", "Passionate Expression", "Authenticity"],
+      "guidance": "Regular meditation or creative expression helps balance emotional intensity."
+    },
+    "head_sloping_creative": {
+      "title": "Imaginative & Intuitive Mind",
+      "summary": "A head line gently inclining toward the Lunar mount denotes rich imagination, lateral problem solving, and artistic intuition.",
+      "detailed": "Your mind thrives beyond rigid boundaries. You synthesize concepts through intuition, visual thinking, and emotional resonance. You excel in design, storytelling, and conceptual innovation.",
+      "traits": ["Lateral Thinker", "Artistic Vision", "Empathetic Insight"],
+      "guidance": "Pair your expansive creative ideas with tangible deadlines and structured execution."
+    },
+    "head_straight_analytical": {
+      "title": "Logical & Strategic Intellect",
+      "summary": "A linear, direct trajectory across the palm signifies methodical thinking, objectivity, and precise discernment.",
+      "detailed": "You are a master of clarity and evidence. When faced with complexity, you dissect issues logically, eliminating bias and discovering efficient practical pathways.",
+      "traits": ["Strategic Precision", "Fact-Driven", "Cool-Headed Under Pressure"],
+      "guidance": "Cultivate moments of playful spontaneity to complement your structured brilliance."
+    },
+    "head_forked_writer": {
+      "title": "The Versatile Dual Mind (Writer's Fork)",
+      "summary": "A bifurcated head line terminal combines analytical discernment with imaginative vision.",
+      "detailed": "Often referred to as the Lawyer's or Writer's Fork, this rare marking provides the ability to perceive both sides of any debate and translate abstract concepts into persuasive communication.",
+      "traits": ["Eloquent Communicator", "Strategic Persuasion", "Multifaceted Talent"],
+      "guidance": "Take up writing, teaching, or leadership roles where synthesis is vital."
+    },
+    "fate_prominent_direct": {
+      "title": "Definite Purpose & Clear Trajectory",
+      "summary": "A distinct vertical furrow straight up toward Saturn indicates self-driven dedication and clear professional goals.",
+      "detailed": "You have a strong sense of destiny and personal agency. You chart your course deliberately and take personal ownership over your achievements.",
+      "traits": ["Self-Directed", "Professional Clarity", "Resolute Drive"],
+      "guidance": "Remember that life's journey also benefits from unplanned serendipity."
+    },
+    "fate_flexible_faint": {
+      "title": "Adaptive & Multipotentialite Path",
+      "summary": "A lighter or flexible fate line suggests freedom from rigid tracks, opening doors to diverse reinventions.",
+      "detailed": "Rather than a singular narrow path, your journey is characterized by multiple chapters, evolving passions, and agile reinvention. You are the architect of your own evolving career.",
+      "traits": ["Adaptable", "Versatile Learner", "Free-Spirited"],
+      "guidance": "Celebrate each phase of your career as valuable cumulative wisdom."
+    }
+  },
+  "mounts": {
+    "jupiter": "Ambition, leadership instincts, noble dignity, and desire to make a lasting social impact.",
+    "saturn": "Patience, philosophical depth, introspective wisdom, and affinity for solitary research.",
+    "apollo": "Aesthetic refinement, creative expression, optimism, and appreciation for beauty and harmony.",
+    "mercury": "Agile communication, business acumen, quick wit, and scientific curiosity.",
+    "venus": "Sensory delight, vitality, warm affection, and joy in human connection.",
+    "moon": "Subconscious intuition, dream recall, mystical affinity, and imaginative depth.",
+    "mars": "Moral courage, physical perseverance, resilience against adversity, and assertive energy."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "version": "1.0",
+  "rules": {
+    "lifeLine": {
+      "longCurved": {
+        "minCurvature": 0.35,
+        "minLength": 0.65,
+        "meaningKey": "life_long_curved"
+      },
+      "straightShort": {
+        "maxCurvature": 0.22,
+        "maxLength": 0.55,
+        "meaningKey": "life_straight_short"
+      },
+      "deepUnbroken": {
+        "minDepth": 0.65,
+        "minContinuity": 0.80,
+        "meaningKey": "life_deep_unbroken"
+      },
+      "forkedEnd": {
+        "hasFork": true,
+        "meaningKey": "life_forked_end"
+      }
+    },
+    "heartLine": {
+      "curvedToJupiter": {
+        "minCurvature": 0.30,
+        "minLength": 0.60,
+        "meaningKey": "heart_curved_jupiter"
+      },
+      "straightSaturn": {
+        "maxCurvature": 0.20,
+        "meaningKey": "heart_straight_saturn"
+      },
+      "deepPassionate": {
+        "minDepth": 0.70,
+        "meaningKey": "heart_deep_passionate"
+      }
+    },
+    "headLine": {
+      "slopingCreative": {
+        "minCurvature": 0.28,
+        "minLength": 0.60,
+        "meaningKey": "head_sloping_creative"
+      },
+      "straightAnalytical": {
+        "maxCurvature": 0.18,
+        "meaningKey": "head_straight_analytical"
+      },
+      "forkedWriter": {
+        "hasFork": true,
+        "meaningKey": "head_forked_writer"
+      }
+    },
+    "fateLine": {
+      "prominentDirect": {
+        "minLength": 0.50,
+        "minDepth": 0.55,
+        "meaningKey": "fate_prominent_direct"
+      },
+      "flexibleFaint": {
+        "maxLength": 0.45,
+        "maxDepth": 0.45,
+        "meaningKey": "fate_flexible_faint"
+      }
+    }
+  }
+}
