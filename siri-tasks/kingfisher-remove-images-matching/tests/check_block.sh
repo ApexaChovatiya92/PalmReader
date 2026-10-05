@@ -1,6 +1,6 @@
 siri_require_file "$WORKSPACE/Package.swift"
 siri_require_file "$WORKSPACE/Sources/Cache/ImageCache.swift"
-siri_require_tool swift "swift --version"
+siri_require_tool swift swift --version
 
 CHECK_DIR="$(mktemp -d "${TMPDIR:-/tmp}/kf-remove-matching.XXXXXX")"
 remove_check_dir() {
